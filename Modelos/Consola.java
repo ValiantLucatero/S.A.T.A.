@@ -1,11 +1,10 @@
-public class Consola{
-
-
-
+public class Consola
+{
 	//Clase que contendra el main
-	public static void main(String[] args) {
-		Producto coca=new Producto();
-		Producto tryy =new Producto();
+	public static void main(String[] args)
+	{
+		Producto coca = new Producto();
+		Producto tryy = new Producto();
 		coca.setNombre("coca");
 		coca.setClave(1);
 		coca.setMarca("coca Cola");
